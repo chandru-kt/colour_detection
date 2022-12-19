@@ -1,3 +1,3 @@
------> place the **csv file** and sample **pic file** same folder where the **main.py** is present
------> Run **main.py** using jupyter notebook
+-----> place the **csv file** and sample **pic file** same folder where the **main.py** is present                                   
+-----> Run **main.py** using jupyter notebook                                                                                 
 -----> The process of execution is explained in **colour_detection.mp4**
